@@ -1,0 +1,23 @@
+Ruby éuma linguagem de programação interpretada de tipagem forte, que possui um gerenciamento automático de memória.
+Ela foi inicialmenteplanejada e desenvolvida em 1995 pelo japones Yukihiro Matsumoto, com o objetivo de seru usada como liguagem de script.Seu criador desejava uma linguagem mais poderosa que Perl e também mais orientada a objetos que Python.
+Sendo inspirada em Python, Perl, Smalltalk, Eiffel, Ada e Lisp, ela suporta progamação orientada a objetos, funcional, imperativa reflexiva, tendo muita similiridade em alguns aspectos com Phyton e sengundo pesquisa de RedMonk ela eestá entre as 10 linguagens mais populares.
+Matsumoto pretendia criar uma linguagem que balanceava programação funcional com imperativa, ele dizia que queria uma linguagem mais poderosa e mais orientada a objetos e por isso decidiu criar a própria linguagem de programação.
+Inicialmente, em uma conversa online com Keiju Ishitsuka,Matsumoto em daro nome de Ruby a sua liguagem ao inves de Coral que foi outro nome suuferido.
+
+
+RubyMotion
+
+RubyMotion é um IDE da linguagem Ruby criada por Lauren Sansonetti, essa IDE é um codigo aberto criado para HipByte com base em MacRuby
+que roda nas plataformas IOS, OSX e Android.
+Ela também adapitou e estendeu o MacRuby para trabalhar alem das plataformas OSX.
+Seus aplicaticos são executados em um simulador IOS, junto com um loop de leitura e impressão de provas.
+As bibliotecas Objective - C de terceiros podem ser incluidas manualmente em um projeto, utilizando m gerenciador de pacotes.
+Seus programas são estaticamente compilados em código de máquina, usando o Rake como sua ferramenta de construção e execução.
+O Rake é uma ferramenta de gerenciamento para tarefas de software e automação de construção, no qual também permite que usuário especifique tarefas e descreva dependencias.
+
+
+
+Referências
+
+https://pt.wikipedia.org/wiki/Ruby_(linguagem_de_programa%C3%A7%C3%A3o)
+https://en.wikipedia.org/wiki/RubyMotion
